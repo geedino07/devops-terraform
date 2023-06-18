@@ -24,7 +24,7 @@ Covers main usage pattern, setting up remote backends (where the terraform state
 
 ## 04 - Variables and Outputs
 
-Introduces the concepts of variables which enable Terraform configurations to be flexible and composable. Refactors web application to use these features.
+Introduces the concepts of variables which enable Terraform configurations to be flexible and composable. Refactors web application to use these features
 
 ## 05 - Language Features
 
